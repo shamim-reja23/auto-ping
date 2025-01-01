@@ -5,7 +5,7 @@ services = [
     # "https://academix-zcgr.onrender.com",
     # "https://farm-ai-5w5g.onrender.com",
     # "https://medtech-clinic.onrender.com",
-    "https://automate-ai.onrender.com", # replace this with actual auto ping service url
+    "https://auto-ping.onrender.com", # replace this with actual auto ping service url
 ]
 
 # Waiting time
