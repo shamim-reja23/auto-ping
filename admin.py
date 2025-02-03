@@ -2,6 +2,7 @@
 services = [
     # "https://learnify-jgxe.onrender.com",
     "https://academix-ai.onrender.com",
+    "https://mentor-agents.onrender.com",
     # "https://academix-zcgr.onrender.com",
     # "https://farm-ai-5w5g.onrender.com",
     # "https://medtech-clinic.onrender.com",
